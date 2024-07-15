@@ -1,6 +1,6 @@
 # 대상혁 프로그래밍 언어 (Shout out to T1 Faker)
 
-리그 오브 레전드 명예의 전당에 헌액된 T1 Faker 선수를 기념하기 위한 프로그래밍 언어입니다. 언어를 만들 능력은 없고, 엄랭이 있는 걸 알아서 참고해서 만들어봤습니다. 사실 처음 생각했던 거보다 쉽지 않아서, 동작하지 않는 것도 많고 코드도 조잡합니다. 시간 짬짬이 내서 수정하거나 하겠습니다. 여기까지 오신 것에 감사 인사드립니다. 오신 김에 한 번 외치고 갑시다. **대 상 혁** 
+리그 오브 레전드 명예의 전당에 헌액된 T1 Faker 선수를 기념하기 위한 프로그래밍 언어입니다. 언어를 만들 능력은 없고, 엄랭이 있는 걸 알아서 참고해서 만들어봤습니다. 사실 처음 생각했던 거보다 쉽지 않아서, 문자열 출력 에러나 변수 선언 혼동 등 미완성인 부분도 많고 코드도 조잡합니다. 시간 짬짬이 내서 수정하거나 하겠습니다. 재미삼아 봐주시면 좋겠습니다. 여기까지 오신 것에 감사 인사드립니다. 오신 김에 한 번 외치고 갑시다. **대 상 혁** 
 
 # DSHLang Interpreter
 
@@ -54,7 +54,7 @@ DSHLang 코드는 `젠장` 키워드로 시작하고 `이제 나는 숭배해야
 
 1. **Node.js 설치**
 
-   이 프로젝트는 Node.js를 필요로 합니다. Node.js가 설치되어 있는지 확인하세요.
+   이 프로젝트는 Node.js를 필요로 합니다. Node.js가 설치되어 있는지 확인하세요. (추후 다른 언어도 추가해볼 예정입니다.)
 
 2. **dshlang.js 실행**
 
@@ -69,7 +69,7 @@ DSHLang 코드는 `젠장` 키워드로 시작하고 `이제 나는 숭배해야
 
 # Daesanghyuk Programming Language (Shout out to T1 Faker)
 
-This programming language is dedicated to commemorating T1 Faker, who has been inducted into the League of Legends Hall of Fame. I don't have the skills to create a programming language from scratch, so I referenced Umjunsik language and tried to create this. Honestly, it wasn't as easy as I initially thought, and there are still many things that don't work and the code is quite rough. I'll try to fix it and make improvements when I find the time. Thank you for making it this far. Since you're here, let's shout together: **대 상 혁**
+I have created a programming language to commemorate T1 Faker, who has been inducted into the League of Legends Hall of Fame. Although I lack the skills to create a complete language, I was inspired by the existence of esoteric languages like "umlang" and gave it a try. It turned out to be more challenging than I initially thought, resulting in some unfinished parts, such as string output errors and variable declaration confusion. The code is somewhat crude, and I plan to make corrections whenever I find time. I hope you find it amusing. Thank you for reading this far. While you're here, let's give a shoutout together:**T1 Faker**
 
 # DSHLang Interpreter
 
@@ -125,7 +125,8 @@ DSHLang code starts with the keyword `젠장` and ends with the keyword `이제 
 
 1. **Install Node.js**
 
-   This project requires Node.js. Ensure that Node.js is installed.
+   This project requires Node.js. Ensure that Node.js is installed. (I plan to add other languages in the future.)
+
 
 2. **Run dshlang.js**
 
