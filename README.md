@@ -121,7 +121,7 @@ DSHLang code starts with the keyword `젠장` and ends with the keyword `이제 
     신상혁
     ```
 
-## 사용 방법
+## Usage
 
 1. **Install Node.js**
 
